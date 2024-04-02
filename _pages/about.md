@@ -5,10 +5,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image: ego_psyche.jpg
+  image_cicular: true # crops the image to make it circular
   address: >
-    Crystal City, VA
+    Arlington, VA
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,6 @@ I'm a graduate from the University of Maryland, College Park who is broadly inte
 * Compilers (optimizations, infrastructure) 
 
 I sometimes play capture the flags (CTFs) with [DiceGang](https://ctftime.org/team/109452/), though I've been kind of inactive lately.  I mostly focus on solving cryptography challenges, though I occasionally branch out into other categories.
-
 
 
 I am a strong believer in open-sourcing my work, and I hope that every software engineer strives to do the same.  
