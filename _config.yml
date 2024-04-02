@@ -89,7 +89,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Thoughts on Security # blog_name will be displayed in your blog page
-blog_nav_title: Thoughts on Security # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: thoughts # your blog must have a title for it to be displayed in the nav bar
 blog_description: May include CTF challenge writeups and other miscellaneous topics
 permalink: /blog/:year/:title/
 
